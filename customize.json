@@ -1,11 +1,11 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
-  "imagePath": "img/lydia2.png",
+  "greeting": "Hello Harshi",
+  "name": "Princess",
+  "greetingText": "Happy Birthday, My Love! 🎉🎂💖",
+  "wishText": "Those late-night calls, our endless bakkati, and the way you bring out sides of me I never even knew existed—every moment with you feels like magic. You are my baby, my bestie, my world.\n\nA few years ago, I never imagined I’d write something like this for anyone, but you changed everything. In the last three years, you’ve shown me what love feels like, and I can’t thank you enough for being the most precious person in my life.\n\nMany birthday wishes are coming your way, but I promise to make each year even more special for you. I can't wait to see you, hold you close, and shower you with endless kisses! 😘💕\n\nHappy Birthday, My Forever! 🥰🎉",
+  "imagePath": "img/custom-image.png",
   "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "textInChatBox": "Likhna baitha toh I don’t know, toh shayad lakho chheze likhni padegi jis ke liye I need to become William Shakespeare 😆",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
   "text3": "But then I stopped.",
@@ -16,8 +16,9 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
+  "wishHeading": "Happy Birthday, My Love! 💖",
+  "outroText": "Okay, now come back and tell me if you liked it. 😘",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
+
