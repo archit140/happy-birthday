@@ -3,7 +3,7 @@
   "name": "Princess",
   "greetingText": "Happy Birthday, My Love! 🎉🎂💖",
   "wishText": "Those late-night calls, our endless bakkati, and the way you bring out sides of me I never even knew existed—every moment with you feels like magic. You are my baby, my bestie, my world.\n\nA few years ago, I never imagined I’d write something like this for anyone, but you changed everything. In the last three years, you’ve shown me what love feels like, and I can’t thank you enough for being the most precious person in my life.\n\nMany birthday wishes are coming your way, but I promise to make each year even more special for you. I can't wait to see you, hold you close, and shower you with endless kisses! 😘💕\n\nHappy Birthday, My Forever! 🥰🎉",
-  "imagePath": "img/custom-image.png",
+  "imagePath": "https://raw.githubusercontent.com/archit140/happy-birthday/master/img/WhatsApp%20Image%202025-03-20%20at%2019.18.13_a9baf8ad.jpg",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Likhna baitha toh I don’t know, toh shayad lakho chheze likhni padegi jis ke liye I need to become William Shakespeare 😆",
   "sendButtonLabel": "Send",
@@ -21,4 +21,5 @@
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
+
 
